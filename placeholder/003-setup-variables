@@ -1,7 +1,0 @@
-file: main.js
-line: 24
----
-
-const APP_ID = "latency";
-const SEARCH_ONLY_API_KEY = "6be0576ff61c053d5f9a3225e2a90f76";
-const INDEX_NAME = "instant_search";
