@@ -1,0 +1,5 @@
+file: main.js
+line: 27
+---
+
+const searchClient = algoliasearch(APP_ID, SEARCH_ONLY_API_KEY);
