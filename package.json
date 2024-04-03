@@ -11,7 +11,7 @@
   "devDependencies": {
     "css-loader": "^6.9.1",
     "style-loader": "^3.3.4",
-    "vite": "^5.0.8"
+    "vite": "^5.0.13"
   },
   "dependencies": {
     "algoliasearch": "^4.22.1",
